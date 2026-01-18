@@ -36,3 +36,12 @@ I am a Master’s in Cybersecurity student at the University of Malaya. My backg
 Throughout my Master's in Cybersecurity at the University of Malaya, I have transitioned from theoretical knowledge to hands-on technical application. My current focus is on the effectiveness of Adaptive Security Awareness Training against Social Engineering. 
 
 While I have made significant progress in network defense, I still find advanced packet manipulation and complex Python-based exploitation scripts challenging. To improve, I am dedicating more time to hands-on lab environments like Kathará and GNS3 to simulate real-world attack scenarios.
+
+
+## Career Objective
+My goal is to leverage my Master’s degree in Cybersecurity and hands-on experience in network defense to secure a position as a Professional Penetration Tester. I am committed to identifying system vulnerabilities and developing robust security strategies to protect organizational infrastructure.
+
+## Contact Information
+* **LinkedIn:** (https://www.linkedin.com/in/abdulrahman-alomari-24a455322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* **Email:** aaktham2003@gmail.com
+* **GitHub:** Aboodalomari701
