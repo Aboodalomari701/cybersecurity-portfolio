@@ -11,6 +11,14 @@ I am a Master’s in Cybersecurity student at the University of Malaya. My backg
 * **Environments:** Experienced with Docker for containerization and Cisco Packet Tracer for network simulation.
 
 
+## Certifications and Training
+* **CCNA (Cisco Certified Network Associate):** Validating foundational knowledge in networking and security.
+* **ISO/IEC 27001:** Understanding of Information Security Management Systems (ISMS) and compliance standards.
+* **Cybersecurity Certification:** Professional training in threat detection and defense strategies.
+* **Advanced Network Security Programming (WQE7002):** University of Malaya course focused on Python-based security tools.
+* **Cyber Security Research Methodology (WQE7001):** University of Malaya course focusing on social engineering defense.
+
+
 ## Project Experience
 
 ### 1. Network Security & Attack Simulation (GNS3)
