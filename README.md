@@ -22,3 +22,9 @@ I am a Master’s in Cybersecurity student at the University of Malaya. My backg
 * **Objective:** Developed a Python-based tool to programmatically analyze CVEs and identify exposed network assets.
 * **Tools:** Python, Shodan API, and Jupyter Notebook.
 * **Outcome:** Created an automated script for threat assessment, allowing for faster identification of vulnerable services in a network.
+
+
+## Learning Journey
+Throughout my Master's in Cybersecurity at the University of Malaya, I have transitioned from theoretical knowledge to hands-on technical application. My current focus is on the effectiveness of Adaptive Security Awareness Training against Social Engineering. 
+
+While I have made significant progress in network defense, I still find advanced packet manipulation and complex Python-based exploitation scripts challenging. To improve, I am dedicating more time to hands-on lab environments like Kathará and GNS3 to simulate real-world attack scenarios.
